@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+.env/
+.env.*
+
+# FastAPI / logs
+*.log
+
+# Editors
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Tests
+.pytest_cache/
+
+# Build
+dist/
+build/
+*.egg-info/
+
